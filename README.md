@@ -1,5 +1,5 @@
 # Employee Manager
-with React Native + Redux
+## with React Native + Redux
 
 ###
 
