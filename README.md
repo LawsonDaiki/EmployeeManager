@@ -1,12 +1,10 @@
 # react-native-employee-manager
 
-See the main README.md for this project:
-
-https://github.com/csjcode/react-native-manager/tree/master/manager
-
 ###
 
 * I started this React Native Employee Manager app by following the instructions from the React Native Udemy course (Stephen Grider instructor)
+
+* My certificate of completion: https://www.udemy.com/certificate/UC-9ccb0517-76bf-4268-9d93-01bbd513e2ac/
 
 * Next, I plan to add some more features, feel free to make any contributions
 
