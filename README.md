@@ -1,4 +1,5 @@
-# react-native-employee-manager
+# Employee Manager
+with React Native + Redux
 
 ###
 
